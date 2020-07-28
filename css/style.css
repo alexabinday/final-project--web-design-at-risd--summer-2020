@@ -26,3 +26,9 @@ nav > ul {
   justify-content: left;
 
 }
+
+li {
+  font-size: 25px;
+  list-style-type: none;
+  margin: 10px 15px 10px 15px;
+}
