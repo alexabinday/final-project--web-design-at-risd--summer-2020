@@ -22,6 +22,9 @@ a{
   flex-direction: column;
 }
 
+.button{
+  opacity:0.5;
+}
 }
 
 img{
