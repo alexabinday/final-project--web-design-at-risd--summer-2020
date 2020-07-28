@@ -9,6 +9,10 @@ body{
 }
 
 a{
+h1{
+  font-size: 2rem;
+  text-align: center;
+}
   text-align: right;
   font-size: 1.5rem;
 }
