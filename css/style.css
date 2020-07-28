@@ -6,14 +6,13 @@ body {
 header {
    position: fixed; 
    top: 0;
-   width: 100%;
+   width: 960px;
    height: 50px;
-   padding-top: 40px;
-   padding-left: 20px;
-   padding-bottom: 20px;
+   border: 10px solid red;
    color: #ffffff;
    background: rgba(180,180,180,.4);
+   line-height: 50px;
    font-size: 5vw;
-   font-weight: 400;
+   font-weight: 300;
    font-variant: small-caps;
 }
