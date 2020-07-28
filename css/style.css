@@ -11,18 +11,17 @@ h1{
   text-align: center;
 }
 
-h2{
+a{
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  line-height: 2rem;
   text-align: right;
   font-size: 1.5rem;
   display: flex;
   flex-direction: column;
 }
 
-a{
-  color: white;
-  background-color: black;
-  text-decoration: none;
-  line-height: 2rem;
 }
 
 img{
