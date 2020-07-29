@@ -31,8 +31,9 @@ h2 {
 }
 
 h3 {
+  position: absolute;
+  top: 50px;
   font-size: 60px;
-  padding: 40px 0 50px 115px;
   color: black;
 }
 
