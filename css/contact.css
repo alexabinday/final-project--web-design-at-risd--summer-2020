@@ -38,6 +38,13 @@ h3 {
 }
 
 nav > ul {
+main {
+  background-color: #F5F5F5;
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+}
+
   display: flex;
   background-color: #fffa65;
   justify-content: left;
