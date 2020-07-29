@@ -1,5 +1,6 @@
 body{
   background-image: url("css-img/test-07.jpg");
+  background-repeat: no-repeat;
   color: white;
   background-color: black;
   margin-top: 0px;
