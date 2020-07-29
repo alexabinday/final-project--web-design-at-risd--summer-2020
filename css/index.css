@@ -1,0 +1,66 @@
+body {
+  font-family: 'futura', sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 96vh;
+  background: rgb(205,132,241);
+  background: radial-gradient(circle, rgba(205,132,241,1) 27%, rgba(197,108,240,1) 100%);
+  color: white;
+}
+
+img.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 300px;
+  text-align: left;
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 70px;
+  text-align: left;
+  padding: 50px 0 30px 25px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 60px;
+  padding: 40px 0 50px 115px;
+  color: black;
+}
+
+nav > ul {
+  display: flex;
+  background-color: #fffa65;
+  justify-content: left;
+}
+
+li {
+  font-size: 25px;
+  list-style-type: none;
+  margin: 10px 15px 10px 15px;
+  padding: 2px;
+}
+
+main {
+  background-color: #F5F5F5;
+  width: 100%;
+  height: 100vh;
+}
+
+a:hover {
+  color: #ff9f1a;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
