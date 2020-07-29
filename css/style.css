@@ -1,5 +1,6 @@
 body {
    font-family: 'Lato', sans-serif;
+   margin-right: 40px;
    background-color: rgb(180,180,180);
    background-image: url("../img/landing.jpg");
    background-repeat: no-repeat;
