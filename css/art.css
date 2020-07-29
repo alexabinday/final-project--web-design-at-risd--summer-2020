@@ -15,10 +15,10 @@ header {
   color: white;
 }
 
-
 h1 {
   font-size: 300px;
-  padding: 100px 0 50px 0;
+  text-align: left;
+  padding: 50px 0 50px 0;
   text-align: center;
 }
 
