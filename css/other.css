@@ -18,31 +18,33 @@ footer {
    font-variant: small-caps;
 }
 
-main {
-
+.about {
+   margin-left: 40px;
 }
 
-.landing-content {
-   margin-left: 20px;
+.img{
+   float:left;
+   display: inline-block;
+   margin-left: 40px;
+   width: 300px;
+   height: auto:
 }
 
-.landing-content h1 {
-   padding: 110px 0 40px 0;
-   color: #ffffff;
-   font-size: 6vw;
-   font-weight: 100;
-   font-variant: small-caps;
+ .bio {
+   display: inline-block;
+   padding-left: 40px;
+   max-width: 500px;
+   max-height: 500px
+   
+   
 }
 
-.landing-content h2 {
-   color: #ffffff;
-   font-size: 4vw;
-   font-weight: 400;
-   font-variant: small-caps;
+.bio p {
+   font-family: 'Lato', sans-serif;
+   font-size: 2vw;
+   font-weight: 200;
 }
-.landing-content h2 .black {
-   color: black;
-}
+   
 
 .sitename {
    float: left;
