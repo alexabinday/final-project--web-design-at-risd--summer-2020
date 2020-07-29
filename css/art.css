@@ -21,17 +21,8 @@ h1 {
   text-align: center;
 }
 
-nav > ul {
-  display: flex;
-  background-color: #fffa65;
-  justify-content: left;
 }
 
-li {
-  font-size: 25px;
-  list-style-type: none;
-  margin: 10px 15px 10px 15px;
-  padding: 2px;
 main {
   background-color: #F5F5F5;
   width: 100%;
@@ -61,6 +52,17 @@ section div img {
   width: 100%;
 }
 
+nav ul {
+  display: flex;
+  background-color: #fffa65;
+  justify-content: center;
+}
+
+li {
+  font-size: 25px;
+  list-style-type: none;
+  margin: 10px 15px;
+  padding: 4px;
 }
 
 a:hover {
