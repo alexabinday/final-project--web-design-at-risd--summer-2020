@@ -24,9 +24,23 @@ main {
 
 }
 
-.landing-content h1{
+.landing-content {
+   margin-left: 20px;
+}
+
+.landing-content h1 { 
    color: #ffffff;
    font-size: 6vw;
-   font-weight: 300;
+   font-weight: 100;
    font-variant: small-caps;
+}
+
+.landing-content h2 {
+   color: #ffffff;
+   font-size: 4vw;
+   font-weight: 400;
+   font-variant: small-caps;
+}
+.landing-content h2 .black {
+   color: black;
 }
