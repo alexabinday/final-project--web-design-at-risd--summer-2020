@@ -37,17 +37,27 @@ h3 {
   color: black;
 }
 
-nav > ul {
+main h3:nth-of-type(1)
+{
+  left: 20px;
+}
+
+main h3:nth-of-type(2)
+{
+  right: 20px;
+}
+
+nav ul {
   display: flex;
   background-color: #fffa65;
-  justify-content: left;
+  justify-content: center;
 }
 
 li {
   font-size: 25px;
   list-style-type: none;
-  margin: 10px 15px 10px 15px;
-  padding: 2px;
+  margin: 10px 15px;
+  padding: 4px;
 }
 
 main {
