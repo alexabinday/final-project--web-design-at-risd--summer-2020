@@ -68,9 +68,12 @@ main {
 
 a:hover {
   color: #ff9f1a;
+  transform: scale(1.2);
 }
 
 a {
+  display: block;
   text-decoration: none;
   color: black;
+  transition: 0.5s;
 }
