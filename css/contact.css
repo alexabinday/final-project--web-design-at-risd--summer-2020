@@ -41,6 +41,32 @@ main {
   position: relative;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+
+  width: 40%;
+  height: 450px;
+  margin: auto;
+
+  position: relative;
+  background-color: #7d5fff;
+}
+
+input {
+ width: 375px;
+ height: 25px;
+ text-align: center;
+}
+
+form p {
+  font-size: 40px;
+  padding: 20px 20px;
+  text-align: center;
+}
+
 nav ul {
   display: flex;
   background-color: #fffa65;
