@@ -15,13 +15,6 @@ header {
   color: white;
 }
 
-img.displayed {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 100px;
-}
-
 h1 {
   font-size: 300px;
   text-align: left;
