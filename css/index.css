@@ -60,13 +60,6 @@ li {
   padding: 4px;
 }
 
-main {
-  background-color: #F5F5F5;
-  width: 100%;
-  min-height: 100vh;
-  position: relative;
-}
-
 a:hover {
   color: #ff9f1a;
   transform: scale(1.2);
