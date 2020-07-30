@@ -79,12 +79,12 @@ li {
   padding: 4px;
 }
 
-a:hover {
+li a:hover {
   color: #ff9f1a;
   transform: scale(1.2);
 }
 
-a {
+li a {
   display: block;
   text-decoration: none;
   color: black;
