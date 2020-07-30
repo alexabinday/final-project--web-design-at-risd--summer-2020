@@ -25,6 +25,10 @@ div{
   justify-content: center;
 }
 
+img{
+  border-radius: 50%;
+}
+
 h3{
   font-family: "futura-pt", sans-serif;
   font-weight: 500;
