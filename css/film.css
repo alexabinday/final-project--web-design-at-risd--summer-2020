@@ -13,6 +13,11 @@ h2{
   text-align: center;
 }
 
+h3{
+  display: flex;
+  justify-content: center;
+}
+
 main{
   font-family: "futura-pt", sans-serif;
   font-weight: 400;
@@ -21,6 +26,4 @@ main{
   line-height: 3rem;
   color: black;
   background-color: transparent;
-  margin-left: 200px;
-  margin-right: 200px;
 }
