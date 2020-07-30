@@ -1,0 +1,19 @@
+body{
+  color: black;
+  background-color: #F5F5EF;
+}
+h2{
+  text-align: center;
+}
+
+main{
+  font-family: "futura-pt", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  line-height: 3rem;
+  color: black;
+  background-color: transparent;
+  margin-left: 200px;
+  margin-right: 200px;
+}
