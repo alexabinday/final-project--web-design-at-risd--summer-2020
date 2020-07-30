@@ -20,6 +20,11 @@ h2{
   margin-bottom: 100px;
 }
 
+div{
+  display: flex;
+  justify-content: center;
+}
+
 h3{
   font-family: "futura-pt", sans-serif;
   font-weight: 500;
