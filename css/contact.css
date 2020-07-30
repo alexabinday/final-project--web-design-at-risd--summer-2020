@@ -67,6 +67,27 @@ form p {
   text-align: center;
 }
 
+section {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-direction: row;
+
+  position: absolute;
+  bottom: 10px;
+}
+
+section div {
+  width: 20%;
+  margin: 20px;
+  padding: 10px;
+}
+
+section div .fab {
+  font-size: 80px;
+  color: #ffaf40;
+}
+
 nav ul {
   display: flex;
   background-color: #fffa65;
