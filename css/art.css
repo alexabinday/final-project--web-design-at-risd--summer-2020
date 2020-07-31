@@ -14,83 +14,6 @@ header {
   color: white;
 }
 
-h1 {
-  font-size: 300px;
-  padding: 0px 0 50px 0;
-  text-align: center;
-}
-
-h2 {
-  font-size: 80px;
-  padding: 50px 0 30px 0px;
-  text-align: center;
-}
-
-p {
-  font-size: 20px;
-  padding: 0;
-  color: black;
-}
-
-main {
-  background-color: #F5F5F5;
-  width: 100%;
-  min-height: 100vh;
-  padding: 20px 0;
-  position: relative;
-}
-
-section {
-  display: flex;
-  justify-content: space-around;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin-top: 20px;
-}
-
-section div {
-  width: 20%;
-  margin: 10px 10px;
-  padding: 10px;
-}
-
-section div img {
-  margin-bottom: 20px;
-  display: block;
-  align-content: flex-start;
-  width: 100%;
-}
-
-section div h3 {
-  text-align: center;
-}
-
-nav ul {
-  display: flex;
-  background-color: #fffa65;
-  justify-content: center;
-}
-
-li {
-  font-size: 25px;
-  list-style-type: none;
-  margin: 10px 15px;
-  padding: 4px;
-}
-
-li a:hover {
-  color: #ff9f1a;
-  transform: scale(1.2);
-}
-
-li a {
-  display: block;
-  text-decoration: none;
-  color: black;
-  transition: 0.5s;
-}
-
-
 @media (max-width: 425px) {
 
   h1 {
@@ -166,29 +89,80 @@ li a {
   }
 }
 
-@media (min-width: 1025px) and (max-width: 1400px) {
+@media (min-width: 1025px) {
   h1 {
-    font-size: 250px;
-    padding: 50px 0 50px 0;
+    font-size: 300px;
+    padding: 0px 0 50px 0;
     text-align: center;
   }
 
   h2 {
-    font-size: 60px;
+    font-size: 80px;
     padding: 50px 0 30px 0px;
     text-align: center;
   }
 
   p {
-    font-size: 15px;
+    font-size: 20px;
     padding: 0;
     color: black;
   }
 
+  main {
+    background-color: #F5F5F5;
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px 0;
+    position: relative;
+  }
+
+  section {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+
+  section div {
+    width: 20%;
+    margin: 10px 10px;
+    padding: 10px;
+  }
+
+  section div img {
+    margin-bottom: 20px;
+    display: block;
+    align-content: flex-start;
+    width: 100%;
+  }
+
+  section div h3 {
+    text-align: center;
+  }
+
+  nav ul {
+    display: flex;
+    background-color: #fffa65;
+    justify-content: center;
+  }
+
   li {
-    font-size: 20px;
+    font-size: 25px;
     list-style-type: none;
     margin: 10px 15px;
     padding: 4px;
+  }
+
+  li a:hover {
+    color: #ff9f1a;
+    transform: scale(1.2);
+  }
+
+  li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
   }
 }
