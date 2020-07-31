@@ -46,10 +46,9 @@ article {
 
 main {
   background-color: #F5F5F5;
-  width: 100%;
-  min-height: 100vh;
-  padding: 20px;
-  position: relative;
+  padding: 150px 0;
+
+  margin: auto;
 }
 
 form {
