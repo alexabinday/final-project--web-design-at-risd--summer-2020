@@ -38,6 +38,10 @@ h4 {
  font-size: 30px;
 }
 
+article {
+  position: absolute;
+  left: 0;
+  top: 100px;
 }
 
 main {
