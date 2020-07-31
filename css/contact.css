@@ -89,6 +89,10 @@ div input {
  padding: 10px;
  font-family: 'futura';
 }
+
+textarea {
+ width: 100%;
+ height: 20%;
 }
 
 form p {
