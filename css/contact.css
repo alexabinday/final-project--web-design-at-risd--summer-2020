@@ -108,12 +108,9 @@ img {
 section {
   display: flex;
   justify-content: space-around;
-  align-content: center;
+  align-items: center;
   flex-direction: row;
 
-  position: absolute;
-  bottom: 10px;
-}
 
 section div {
   width: 20%;
