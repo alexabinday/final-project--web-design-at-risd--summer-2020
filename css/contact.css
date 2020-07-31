@@ -120,6 +120,10 @@ section .fab {
   color: #ffaf40;
 }
 
+section a:hover {
+  transform: scale(2.0);
+}
+
 nav ul {
   display: flex;
   background-color: #fffa65;
