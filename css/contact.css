@@ -51,18 +51,19 @@ main {
   margin: auto;
 }
 
-form {
+main > div {
   display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: center;
-
-  width: 40%;
-  height: 450px;
-  margin: auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
 
   position: relative;
-  background-color: #7d5fff;
+  width: 85%;
+  margin: auto;
+  min-height: 500px;
+}
+
 }
 
 input {
