@@ -2,12 +2,12 @@ body {
   font-family: 'futura', sans-serif;
 }
 
+
 header {
   display: flex;
   flex-direction: column;
-  align-content: center;
-
-  width: 100%;
+  align-items: center;
+  justify-content: center;
   height: 96vh;
 
   background: rgb(205,132,241);
