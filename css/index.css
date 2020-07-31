@@ -39,9 +39,6 @@ main {
   min-height: 100vh;
 }
 
-main h3:nth-of-type(2)
-{
-  right: 20px;
 }
 
 nav ul {
