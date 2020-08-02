@@ -12,4 +12,9 @@ p {
 }
 html {
   background-color: pink
+
+}
+nav {
+  position: relative;
+  font-style: italic;
 }
